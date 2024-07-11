@@ -1,0 +1,15 @@
+.bc-color{
+  background-color: #030a18;
+/*color: rgb(29, 189, 45);*/
+color: aliceblue;
+}
+.bc-font{
+ font-family: 'Courier New', Courier, monospace;
+}
+.img-fluid-custom{
+  width: 200px;
+  height: 200px;
+}
+.nav-custom{
+  background-color: #030a18;
+}
