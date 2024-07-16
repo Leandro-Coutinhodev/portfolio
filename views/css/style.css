@@ -1,15 +1,28 @@
-.bc-color{
+.bc-color {
   background-color: #030a18;
-/*color: rgb(29, 189, 45);*/
-color: aliceblue;
+  color: aliceblue;
 }
-.bc-font{
- font-family: 'Courier New', Courier, monospace;
+
+.bc-font {
+  font-family: 'Courier New', Courier, monospace;
 }
-.img-fluid-custom{
+
+.img-fluid-custom {
   width: 200px;
   height: 200px;
 }
-.nav-custom{
+
+.nav-custom {
   background-color: #030a18;
 }
+
+@media screen and (max-width: 992px) {
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+}
+
+.nav-link:hover{
+    display: block;
+    padding-left: 1rem;
+  }
