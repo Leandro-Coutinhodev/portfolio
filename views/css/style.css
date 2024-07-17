@@ -2,7 +2,6 @@
   background-color: #030a18;
   color: aliceblue;
 }
-
 .bc-font {
   font-family: 'Courier New', Courier, monospace;
 }
@@ -26,3 +25,8 @@
     display: block;
     padding-left: 1rem;
   }
+.sk-card{
+  width: 270px;
+  border-color: gray;
+  border-radius: 20px;
+}
